@@ -1,0 +1,13 @@
+body {
+    color: steelblue;
+    background-color: green;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+li {
+    color: orange;
+    margin-top: 10px;
+}
